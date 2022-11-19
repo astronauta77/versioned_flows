@@ -1,0 +1,6 @@
+flows:
+  721482cd-9337-463f-a7c4-f79583e684f2: {ver: 1, file: commit_from_nifi.snapshot,
+    comments: commit from nifi, author: anonymous, created: 1668892790006, flowName: commit
+      from nifi, flowDesc: for testing}
+layoutVer: 1
+bucketId: 3371948c-992d-4274-9790-fdbe322ee817
