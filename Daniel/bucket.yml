@@ -1,0 +1,6 @@
+flows:
+  7637d334-6ff3-45a5-b7de-a281fc8cea02: {ver: 1, file: inventario.snapshot, comments: 'commit
+      desde el nifi ', author: anonymous, created: 1669047794381, flowName: inventario,
+    flowDesc: test}
+layoutVer: 1
+bucketId: 7b50cfca-046f-4898-96cb-7a954437dc71
