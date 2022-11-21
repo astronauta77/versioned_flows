@@ -1,6 +1,5 @@
 flows:
-  7637d334-6ff3-45a5-b7de-a281fc8cea02: {ver: 2, file: inventario.snapshot, comments: change
-      Exito to Daniel, author: anonymous, created: 1669048235940, flowName: inventario,
-    flowDesc: test}
+  7637d334-6ff3-45a5-b7de-a281fc8cea02: {ver: 3, file: inventario.snapshot, comments: version
+      2, author: anonymous, created: 1669056461549, flowName: inventario, flowDesc: test}
 layoutVer: 1
 bucketId: 7b50cfca-046f-4898-96cb-7a954437dc71
