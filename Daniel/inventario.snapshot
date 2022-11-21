@@ -4343,7 +4343,7 @@
           "properties" : {
             "GCP Credentials Provider Service" : "c706a387-616f-38e0-b5e9-ed62225d88b4",
             "gcp-pubsub-publish-batch-size" : "15",
-            "gcp-pubsub-topic" : "EXIT_INB_XINT_SupplyEventQueueMSGType_GCPQ",
+            "gcp-pubsub-topic" : "DANIEL_INB_XINT_SupplyEventQueueMSGType_GCPQ",
             "gcp-project-id" : "exit-mif-stg-01"
           },
           "propertyDescriptors" : {
