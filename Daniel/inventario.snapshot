@@ -675,8 +675,8 @@
         "name" : "inventario",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 566.0,
-          "y" : 131.0
+          "x" : 608.0,
+          "y" : 184.0
         },
         "processGroups" : [ {
           "comments" : "",
@@ -4343,7 +4343,7 @@
           "properties" : {
             "GCP Credentials Provider Service" : "c706a387-616f-38e0-b5e9-ed62225d88b4",
             "gcp-pubsub-publish-batch-size" : "15",
-            "gcp-pubsub-topic" : "DANIEL_SANCHEZ_VEGAS_V02_INB_XINT_SupplyEventQueueMSGType_GCPQ",
+            "gcp-pubsub-topic" : "DANIEL_SANCHEZ_VEGAS_V03_INB_XINT_SupplyEventQueueMSGType_GCPQ",
             "gcp-project-id" : "exit-mif-stg-01"
           },
           "propertyDescriptors" : {
