@@ -1,0 +1,6 @@
+flows:
+  b9eea548-fa8d-4479-959a-eab3a32cb803: {ver: 1, file: Test-Flink-Kafka-Nifi.snapshot,
+    comments: 'ADD: se agrega el template', author: anonymous, created: 1669223339624,
+    flowName: Test-Flink-Kafka-Nifi, flowDesc: se agrega el template}
+layoutVer: 1
+bucketId: d7c54f76-bb2b-4d2d-b32f-ab05ec71cc9f
