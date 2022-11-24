@@ -613,8 +613,8 @@
         "name" : "sub-vtex-sync-network",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 720.0,
-          "y" : 266.0
+          "x" : 408.0,
+          "y" : 24.0
         },
         "processGroups" : [ {
           "comments" : "",
@@ -2963,7 +2963,7 @@
           "properties" : {
             "GCP Credentials Provider Service" : "c706a387-616f-38e0-b5e9-ed62225d88b4",
             "gcp-pubsub-publish-batch-size" : "15",
-            "gcp-pubsub-topic" : "DANIEL_SANCHEZ_018_INB_XINT_SupplyEventQueueMSGType_GCPQ",
+            "gcp-pubsub-topic" : "DANIEL_SANCHEZ_019_INB_XINT_SupplyEventQueueMSGType_GCPQ",
             "gcp-project-id" : "exit-mif-stg-01"
           },
           "propertyDescriptors" : {
